@@ -1,1 +1,8 @@
-/datasets/
+.idea/
+.ipynb_checkpoints/
+bin/
+datasets/
+lib/
+etc/
+handson/
+include/
