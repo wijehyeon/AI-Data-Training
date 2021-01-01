@@ -6,3 +6,5 @@ lib/
 etc/
 handson/
 include/
+share/
+pyvenv.cfg
