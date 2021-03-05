@@ -8,3 +8,4 @@ handson/
 include/
 share/
 pyvenv.cfg
+NLP/data/
